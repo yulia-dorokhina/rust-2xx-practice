@@ -1,5 +1,5 @@
 /// https://practice.course.rs/basic-types/numbers.html
 #[test]
-fn test1() {
+fn test41() {
 
 }

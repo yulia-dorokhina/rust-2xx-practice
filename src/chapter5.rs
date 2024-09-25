@@ -1,5 +1,5 @@
 /// https://practice.course.rs/ownership/ownership.html
 #[test]
-fn test1() {
+fn test51() {
 
 }
