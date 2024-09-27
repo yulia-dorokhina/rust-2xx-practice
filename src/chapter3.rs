@@ -7,3 +7,14 @@ fn test31() {
     assert_eq!(x, 5);
     println!("Success!");
 }
+
+#[test]
+fn test399() {
+    let x = 5;
+    let y = 10;
+
+    let real = x + y;
+    let expected = 15;
+
+    assert_eq!(real, expected);
+}
